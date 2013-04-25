@@ -9,7 +9,8 @@ Allows you to do stuff like:
 ```
 
 Or, run with just `skyyy` to have a dmenu prompt for which action to
-take (or who to call).
+take (or who to call). Bind it to a global keyboard shortcut for even
+better usage.
 
 ## Pre-reqs
 
