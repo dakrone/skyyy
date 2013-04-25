@@ -15,7 +15,7 @@ take (or who to call).
 
 ```
 % sudo apt-get install libdbus-ruby suckless-tools zenity
-% gem install ruby-dbus"
+% gem install ruby-dbus
 ```
 
 ## Known issues
